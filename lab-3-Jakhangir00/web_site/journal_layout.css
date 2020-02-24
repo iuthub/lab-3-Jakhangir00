@@ -1,0 +1,42 @@
+html{
+    background-image: url("images/lab3.jpg");
+}
+.content{
+    border: 5px green solid;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.top{
+    border: 5px red solid;
+    align-content: right;
+    text-align: right;
+}
+
+.inside_top{
+    border: 5px orange solid;
+    
+}
+
+.Body1{
+    border: 5px blue solid;
+    background-color: #E8FBFB;
+    padding: 5 px;
+    margin-top: 10px;
+}
+
+.spartulas{
+    border: 5px purple solid;
+}
+
+.Body2{
+    border: 5px blue solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.cookie{
+    border: 5px purple solid;
+}
